@@ -132,9 +132,3 @@ ul.avatar-list li.user-hpbtbot p.dubs:before {
 	font-weight: 700 !important;
 	color: #ff3657 !important;
 }
-
-ul.avatar-list li.user-ifailagain p.dubs:before {
-	content: "Awesome  -  ";
-	font-weight: 700 !important;
-	color: #ff3657 !important;
-}
