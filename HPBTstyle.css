@@ -88,14 +88,14 @@
 /** Admins **/
 #chat .chat-main .isOwner .username::before
 {
-    content:       url(http://imgur.com/Ow2Nb6h);
+    content:       url(https://photos-6.dropbox.com/t/2/AABMPYZ2d1RmdfFg_03Zyi0N7_8SEKr6LOFLGf4-mXkvGQ/12/119577275/png/32x32/1/_/1/2/Admin.png/EIf7m1wYh5gEIAIoAg/uHojwJnR-ZUxnsYevKeYHCKg3yS5OpP_p7PVu9F1Am0?size=1600x1200&size_mode=3);
     position:      relative;
     top:           4px;
     padding-right: 2px;
 }
 #chat .chat-main .isCo-owner .username::before
 {
-    content:       url(http://imgur.com/Ow2Nb6h);
+    content:       url(https://photos-6.dropbox.com/t/2/AABMPYZ2d1RmdfFg_03Zyi0N7_8SEKr6LOFLGf4-mXkvGQ/12/119577275/png/32x32/1/_/1/2/Admin.png/EIf7m1wYh5gEIAIoAg/uHojwJnR-ZUxnsYevKeYHCKg3yS5OpP_p7PVu9F1Am0?size=1600x1200&size_mode=3);
     position:      relative;
     top:           4px;
     padding-right: 2px;
