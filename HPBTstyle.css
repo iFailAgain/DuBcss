@@ -10,7 +10,7 @@
 /** Admin **/
 #chat .chat-main .isOwner .username,
 #chat .chat-main .isOwner .username:hover,
-#chat .chat-main .isOwner .username:visited;
+#chat .chat-main .isOwner .username:visited,
 #chat .chat-main .isCo-owner .username,
 #chat .chat-main .isCo-owner .username:hover,
 #chat .chat-main .isCo-owner .username:visited
@@ -31,12 +31,12 @@
 #chat .chat-main .isManager .username:hover,
 #chat .chat-main .isManager .username:visited
 {
-    color: #00AA00 !important;
+    color: #00B700 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username:after
 {
-    color: #00AA00 !important;
+    color: #00B700 !important;
 }
 
 
@@ -45,12 +45,12 @@
 #chat .chat-main .isMod .username:hover,
 #chat .chat-main .isMod .username:visited
 {
-    color: #00B700 !important;
+    color: #00cb00 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username:after
 {
-    color: #00B700 !important;
+    color: #00cb00 !important;
 }
 
 
