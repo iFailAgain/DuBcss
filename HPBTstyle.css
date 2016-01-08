@@ -1,6 +1,6 @@
 /* 
   Custom CSS for Hypixel Creative dubtrack room.
-  Join us at dubtrack.fm/hypixelcreative.
+  Join us at https://www.dubtrack.fm/join/hypixel-creative.
   Made by @iFailAgain
 */
 
@@ -15,14 +15,14 @@
 #chat .chat-main .isCo-owner .username:hover,
 #chat .chat-main .isCo-owner .username:visited
 {
-    color: #FF38CB !important;
+    color: #963C39 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.creator p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.creator p.username:after,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username:after
 {
-    color: #FF007F !important;
+    color: #963C39 !important;
 }
 
 
@@ -31,12 +31,12 @@
 #chat .chat-main .isManager .username:hover,
 #chat .chat-main .isManager .username:visited
 {
-    color: #3083FF !important;
+    color: #37662C !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.manager p.username:after
 {
-    color: #3083FF !important;
+    color: #37662C !important;
 }
 
 
@@ -45,12 +45,12 @@
 #chat .chat-main .isMod .username:hover,
 #chat .chat-main .isMod .username:visited
 {
-    color: #3083FF !important;
+    color: #399C51 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username:after
 {
-    color: #3083FF !important;
+    color: #399C51 !important;
 }
 
 
@@ -59,12 +59,12 @@
 #chat .chat-main .isVip .username:hover,
 #chat .chat-main .isVip .username:visited
 {
-    color: #29A3A3 !important;
+    color: #FFAA00 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username:after
 {
-    color: #3083FF !important;
+    color: #FFAA00 !important;
 }
 
 
@@ -73,11 +73,11 @@
 #chat .chat-main .isResident-dj .username:hover,
 #chat .chat-main .isResident-dj .username:visited
 {
-    color: #33CCFF !important;
+    color: #83C1D6 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after
 {
-    color: #3083FF !important;
+    color: #83C1D6 !important;
 }
 
