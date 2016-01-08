@@ -89,14 +89,14 @@
 {
     content:       url(https://cloud.githubusercontent.com/assets/12417294/12205025/5f08c052-b638-11e5-9219-78e8f083f611.png);
     position:      relative;
-    top:           2px;
+    top:           10px;
     padding-right: 2px;
 }
 #chat .chat-main .isCo-owner .username::before
 {
     content:       url(https://cloud.githubusercontent.com/assets/12417294/12205025/5f08c052-b638-11e5-9219-78e8f083f611.png);
     position:      relative;
-    top:           2px;
+    top:           10px;
     padding-right: 2px;
 }
 
