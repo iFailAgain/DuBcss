@@ -18,7 +18,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username:after
 {
-    color: #FF38CB !important;
+    color: #FF5555 !important;
 }
 
 /** Manager: Can give out staff ranks. **/
@@ -28,7 +28,7 @@
 #main_avatar_room #main-user-list-room #avater-list li.manager p.username,
 #main_avatar_room #main-user-list-room #avater-list li.manager p.username:after
 {
-    color: #3083FF !important;
+    color: #00AA00 !important;
 }
 
 /** MOD: All the functionalities to moderate. **/
@@ -38,7 +38,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avater-list li.mod p.username:after
 {
-    color: #3083FF !important;
+    color: #55FF55 !important;
 }
 
 /** VIP: Only able to skip songs. **/
@@ -54,13 +54,52 @@
 /** ResidentDJ: Cosmetic titel **/
 #chat .chat-main .isResident-dj .username,
 #chat .chat-main .isResident-dj .username:hover,
-#chat .chat-main .isResident-dj .username:visited
+#chat .chat-main .isResident-dj .username:visited,
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after
 {
     color: #33CCFF !important;
 }
 
-/** Current DJ **/
-#main_avatar_room #main-user-list-room #avatar-list li.currentDJ p.username,
-#main_avatar_room #main-user-list-room #avatar-list li.currentDJ p.username:after {
-	color: #0FF;
+
+
+/* badges */
+#chat .chat-main .isOwner .username::before
+{
+    content:       url(SoonTM);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+
+#chat .chat-main .isCo-owner .username::before
+{
+    content:       url(SoonTM);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+
+#chat .chat-main .isManager .username::before
+{
+    content:       url(SoonTM);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+
+#chat .chat-main .isMod .username::before
+{
+    content:       url(SoonTM);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+
+#chat .chat-main .isVip .username::before
+{
+    content:       url(SoonTM);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
 }
