@@ -81,3 +81,24 @@
     color: #459FFF !important;
 }
 
+
+
+/* Badges */
+
+/** Admins **/
+#chat .chat-main .isOwner .username::before
+{
+    content:       url(http://imgur.com/Ow2Nb6h);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+#chat .chat-main .isCo-owner .username::before
+{
+    content:       url(http://imgur.com/Ow2Nb6h);
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
+/** Manager **/
+/** Mod **/
