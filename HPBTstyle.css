@@ -128,7 +128,13 @@
 }
 /** Glados **/
 ul.avatar-list li.user-56818632da3fab1300d03c49 p.dubs:before {
-	content: "DubX Team  -  ";
+	content: "BOT  -  ";
+	font-weight: 700 !important;
+	color: #ff3657 !important;
+}
+
+ul.avatar-list li.user-iFailAgain p.dubs:before {
+	content: "Awesome  -  ";
 	font-weight: 700 !important;
 	color: #ff3657 !important;
 }
