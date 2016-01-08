@@ -128,6 +128,7 @@
 }
 
 
+
 /* Varia */
 
 /** Mentions **/
@@ -135,8 +136,8 @@
 {
     color: #FFDD6F !important;
 }
-/** Glados **/
 
+/** Glados **/
 ul.avatar-list li.user-GLaDOS_ p.dubs:before {
 	content: "BOT  -  ";
 	font-weight: 700 !important;
