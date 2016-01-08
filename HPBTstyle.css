@@ -59,12 +59,12 @@
 #chat .chat-main .isVip .username:hover,
 #chat .chat-main .isVip .username:visited
 {
-    color: #FFAA00 !important;
+    color: #8cdc8c !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username:after
 {
-    color: #FFAA00 !important;
+    color: #8cdc8c !important;
 }
 
 
@@ -117,16 +117,6 @@
     top:           4px;
     padding-right: 2px;
 }
-
-/** VIP **/
-#chat .chat-main .isVip .username::before
-{
-    content:       url(https://cloud.githubusercontent.com/assets/12417294/12205131/0afa9b7e-b639-11e5-9f0f-177e34df64c2.png);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
 
 
 /* Varia */
