@@ -135,8 +135,10 @@
 {
     color: #FFDD6F !important;
 }
-ul.avatar-list li.user-ifailagain p.dubs:before {
-	content: "2Good  -  ";
+/** Glados **/
+
+ul.avatar-list li.user-GLaDOS_ p.dubs:before {
+	content: "BOT  -  ";
 	font-weight: 700 !important;
-	color: #ff3657 !important;
+	color: #FF5555 !important;
 }
