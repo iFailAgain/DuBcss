@@ -135,3 +135,8 @@
 {
     color: #FFDD6F !important;
 }
+ul.avatar-list li.user-ifailagain p.dubs:before {
+	content: "2Good  -  ";
+	font-weight: 700 !important;
+	color: #ff3657 !important;
+}
