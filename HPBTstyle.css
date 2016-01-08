@@ -35,8 +35,7 @@
 #chat .chat-main .isMod .username,
 #chat .chat-main .isMod .username:hover,
 #chat .chat-main .isMod .username:visited,
-#chat .chat-main .isManager .username:visited,
-#main_avatar_room #main-user-list-room #avater-list li.mod p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avater-list li.mod p.username:after
 {
     color: #3083FF !important;
