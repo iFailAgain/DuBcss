@@ -63,7 +63,7 @@
 
 
 
-/* badges */
+/* badges 
 #chat .chat-main .isOwner .username::before
 {
     content:       url(SoonTM);
@@ -103,3 +103,4 @@
     top:           4px;
     padding-right: 2px;
 }
+*/
