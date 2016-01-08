@@ -38,7 +38,7 @@
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avater-list li.mod p.username:after
 {
-    color: #55FF55 !important;
+    color: #00AA00 !important;
 }
 
 /** VIP: Only able to skip songs. **/
@@ -48,7 +48,7 @@
 #main_avatar_room #main-user-list-room #avater-list li.vip p.username,
 #main_avatar_room #main-user-list-room #avater-list li.vip p.username:after
 {
-    color: #29A3A3 !important;
+    color: #55FF55 !important;
 }
 
 /** ResidentDJ: Cosmetic titel **/
