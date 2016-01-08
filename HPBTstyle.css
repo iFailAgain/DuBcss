@@ -59,12 +59,12 @@
 #chat .chat-main .isVip .username:hover,
 #chat .chat-main .isVip .username:visited
 {
-    color: #55FF55 !important;
+    color: #A6FF26 !important;
 }
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.vip p.username:after
 {
-    color: #55FF55 !important;
+    color: #A6FF26 !important;
 }
 
 
