@@ -4,103 +4,80 @@
   Made by @iFailAgain
 */
 
-/* Staff List */
 
-/** Owner/co-owner: are both considered admins **/
+/* Staff Colors */
+
+/** Admin **/
 #chat .chat-main .isOwner .username,
 #chat .chat-main .isOwner .username:hover,
-#chat .chat-main .isOwner .username:visited,
-#main_avatar_room #main-user-list-room #avatar-list li.creator p.username,
-#main_avatar_room #main-user-list-room #avatar-list li.creative p.username:after,
+#chat .chat-main .isOwner .username:visited;
 #chat .chat-main .isCo-owner .username,
 #chat .chat-main .isCo-owner .username:hover,
-#chat .chat-main .isCo-owner .username:visited,
+#chat .chat-main .isCo-owner .username:visited
+{
+    color: #FF38CB !important;
+}
+#main_avatar_room #main-user-list-room #avatar-list li.creator p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.creator p.username:after,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner p.username:after
 {
-    color: #FF5555 !important;
+    color: #FF007F !important;
 }
 
-/** Manager: Can give out staff ranks. **/
+
+/** Manager **/
 #chat .chat-main .isManager .username,
 #chat .chat-main .isManager .username:hover,
-#chat .chat-main .isManager .username:visited,
-#main_avatar_room #main-user-list-room #avater-list li.manager p.username,
-#main_avatar_room #main-user-list-room #avater-list li.manager p.username:after
+#chat .chat-main .isManager .username:visited
 {
-    color: #00AA00 !important;
+    color: #3083FF !important;
+}
+#main_avatar_room #main-user-list-room #avatar-list li.manager p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.manager p.username:after
+{
+    color: #3083FF !important;
 }
 
-/** MOD: All the functionalities to moderate. **/
+
+/** Mod **/
 #chat .chat-main .isMod .username,
 #chat .chat-main .isMod .username:hover,
-#chat .chat-main .isMod .username:visited,
+#chat .chat-main .isMod .username:visited
+{
+    color: #3083FF !important;
+}
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username,
 #main_avatar_room #main-user-list-room #avatar-list li.mod p.username:after
 {
-    color: #00AA00 !important;
+    color: #3083FF !important;
 }
 
-/** VIP: Only able to skip songs. **/
+
+/** VIP **/
 #chat .chat-main .isVip .username,
 #chat .chat-main .isVip .username:hover,
-#chat .chat-main .isVip .username:visited,
-#main_avatar_room #main-user-list-room #avater-list li.vip p.username,
-#main_avatar_room #main-user-list-room #avater-list li.vip p.username:after
+#chat .chat-main .isVip .username:visited
 {
-    color: #55FF55 !important;
+    color: #29A3A3 !important;
+}
+#main_avatar_room #main-user-list-room #avatar-list li.vip p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.vip p.username:after
+{
+    color: #3083FF !important;
 }
 
-/** ResidentDJ: Cosmetic titel **/
+
+/** ResDJ **/
 #chat .chat-main .isResident-dj .username,
 #chat .chat-main .isResident-dj .username:hover,
-#chat .chat-main .isResident-dj .username:visited,
-#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username,
-#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after
+#chat .chat-main .isResident-dj .username:visited
 {
     color: #33CCFF !important;
 }
-
-
-
-/* badges 
-#chat .chat-main .isOwner .username::before
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username,
+#main_avatar_room #main-user-list-room #avatar-list li.resident-dj p.username:after
 {
-    content:       url(SoonTM);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
+    color: #3083FF !important;
 }
 
-#chat .chat-main .isCo-owner .username::before
-{
-    content:       url(SoonTM);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isManager .username::before
-{
-    content:       url(SoonTM);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isMod .username::before
-{
-    content:       url(SoonTM);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-
-#chat .chat-main .isVip .username::before
-{
-    content:       url(SoonTM);
-    position:      relative;
-    top:           4px;
-    padding-right: 2px;
-}
-*/
