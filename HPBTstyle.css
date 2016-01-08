@@ -82,8 +82,7 @@
 }
 
 
-
-/* Badges */
+/* Staff Badges */
 
 /** Admins **/
 #chat .chat-main .isOwner .username::before
@@ -126,4 +125,13 @@
     position:      relative;
     top:           4px;
     padding-right: 2px;
+}
+
+
+/* Varia */
+
+/** Mentions **/
+#chat .chat-container ul.chat-main li .activity-row .text span.username-handle[style="color: rgba(255, 0, 255, 0.8);"] 
+{
+    color: #FFDD6F !important;
 }
