@@ -136,10 +136,3 @@
 {
     color: #FFDD6F !important;
 }
-
-/** Glados **/
-ul.avatar-list li.user-glados_ p.dubs:before {
-	content: "BOT  -  ";
-	font-weight: 700 !important;
-	color: #FF5555 !important;
-}
